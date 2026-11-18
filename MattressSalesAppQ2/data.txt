@@ -1,0 +1,8 @@
+DATA LOG
+*****************************************
+Customer Name: moses
+Product: Sealy Phuket
+VAT: R 1275.0
+COMMISSION: R 425.0
+TOTAL: R 10200.0
+*****************************************
